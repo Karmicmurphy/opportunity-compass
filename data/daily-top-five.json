@@ -1,0 +1,38 @@
+{
+  "id": "daily-top-five-2026-07-02",
+  "title": "Daily Top 5 - Starter Set",
+  "brief_date": "2026-07-02",
+  "summary": "A starter Daily Top 5 using fixed-scope, beginner-readable opportunities. These are public-safe seed examples, not copied job listings.",
+  "items": [
+    {
+      "rank": 1,
+      "opportunity_id": "opp-review-reply-pack",
+      "reason_included": "Clear buyer pain, easy deliverable, beginner-safe, strong small-business fit.",
+      "suggested_next_move": "Offer 20 owner-approved review replies for a fixed price."
+    },
+    {
+      "rank": 2,
+      "opportunity_id": "opp-faq-draft-pack",
+      "reason_included": "Simple package that saves owners time and avoids complex tool setup.",
+      "suggested_next_move": "Ask for repeated customer questions and draft 10 FAQ answers."
+    },
+    {
+      "rank": 3,
+      "opportunity_id": "opp-canva-flyer-cleanup",
+      "reason_included": "Easy to understand, visual, small scope, and good for Canva beginners.",
+      "suggested_next_move": "Clean up one existing flyer using buyer-provided facts and assets."
+    },
+    {
+      "rank": 4,
+      "opportunity_id": "opp-marketplace-listing-cleanup",
+      "reason_included": "Batchable writing cleanup with clear deliverables and low tool cost.",
+      "suggested_next_move": "Clean up 10 listings using seller-provided product facts."
+    },
+    {
+      "rank": 5,
+      "opportunity_id": "opp-pdf-spreadsheet-cleanup",
+      "reason_included": "Boring but useful cleanup task with real buyer pain and good starter pricing.",
+      "suggested_next_move": "Inspect one small PDF, confirm columns, and deliver a clean spreadsheet."
+    }
+  ]
+}
