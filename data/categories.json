@@ -1,0 +1,57 @@
+[
+  {
+    "id": "cat-ai-content-review",
+    "name": "AI content review",
+    "description": "Reviewing AI-written content for quality, accuracy, tone, and usefulness."
+  },
+  {
+    "id": "cat-ai-response-evaluation",
+    "name": "AI response evaluation",
+    "description": "Comparing model outputs, rating answers, and explaining which response is better."
+  },
+  {
+    "id": "cat-local-business-ai-help",
+    "name": "Local business AI help",
+    "description": "Small practical AI-assisted services for local businesses."
+  },
+  {
+    "id": "cat-review-replies",
+    "name": "Review replies",
+    "description": "Drafting owner replies to real customer reviews."
+  },
+  {
+    "id": "cat-faq-drafts",
+    "name": "FAQ drafts",
+    "description": "Turning repeated customer questions into clear FAQ answers."
+  },
+  {
+    "id": "cat-marketplace-listing-cleanup",
+    "name": "Marketplace listing cleanup",
+    "description": "Improving product titles, descriptions, and listing clarity."
+  },
+  {
+    "id": "cat-pdf-spreadsheet-cleanup",
+    "name": "PDF and spreadsheet cleanup",
+    "description": "Turning messy PDFs, lists, and tables into clean spreadsheets."
+  },
+  {
+    "id": "cat-canva-cleanup",
+    "name": "Canva cleanup",
+    "description": "Cleaning up simple flyers, one-sheets, and presentation-style materials."
+  },
+  {
+    "id": "cat-social-post-batching",
+    "name": "Social post batching",
+    "description": "Turning existing business info into small batches of social posts."
+  },
+  {
+    "id": "cat-workflow-mapping",
+    "name": "Workflow mapping",
+    "description": "Writing down messy repeated tasks before automation is attempted."
+  },
+  {
+    "id": "cat-trust-risk-check",
+    "name": "Trust and risk check",
+    "description": "Evaluating whether an opportunity looks safe, useful, realistic, or too risky."
+  }
+]
