@@ -1,0 +1,50 @@
+[
+  {
+    "id": "risk-needs-clarification",
+    "name": "Needs Clarification",
+    "severity": "low",
+    "description": "The opportunity may be real, but the scope, pay, task count, or acceptance rules need to be clarified before touching it."
+  },
+  {
+    "id": "risk-scope-creep",
+    "name": "Scope Creep Risk",
+    "severity": "medium",
+    "description": "The buyer may expect unlimited revisions, unclear batches, ongoing support, or extra work beyond the stated task."
+  },
+  {
+    "id": "risk-pay-scope-mismatch",
+    "name": "Pay/Scope Mismatch",
+    "severity": "medium",
+    "description": "The work may be real, but the pay does not match the time, effort, or complexity."
+  },
+  {
+    "id": "risk-access",
+    "name": "Access Risk",
+    "severity": "high",
+    "description": "The task asks for login access, admin access, account control, or unnecessary private files."
+  },
+  {
+    "id": "risk-sensitive-data",
+    "name": "Sensitive Data Risk",
+    "severity": "high",
+    "description": "The task may involve private customer data, financial documents, health details, legal records, or other sensitive information."
+  },
+  {
+    "id": "risk-expert-work",
+    "name": "Expert Work Risk",
+    "severity": "high",
+    "description": "The task requires professional judgment, regulated expertise, or high-liability review even if it is marketed as beginner work."
+  },
+  {
+    "id": "risk-platform",
+    "name": "Platform Risk",
+    "severity": "medium",
+    "description": "The work depends on a platform with inconsistent task supply, opaque review, unclear approval rules, or account risk."
+  },
+  {
+    "id": "risk-scam-pattern",
+    "name": "Scam Pattern",
+    "severity": "high",
+    "description": "The opportunity shows classic scam signs such as upfront payment, vague easy work, weird payment methods, pressure, or fake recruiter behavior."
+  }
+]
